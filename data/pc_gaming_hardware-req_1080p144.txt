@@ -1,0 +1,26 @@
+﻿Game Title;Operating System;Processor (CPU);Memory (RAM);Graphics Card (GPU);Storage
+Counter-Strike 2;Windows 10 64-bit;Intel Core i5-12600K or AMD Ryzen 5 5600X;16 GB;NVIDIA GeForce RTX 3060 Ti or AMD Radeon RX 6700 XT;20 GB SSD
+Dota 2;Windows 10 64-bit;Intel Core i5-11600K or AMD Ryzen 5 5600X;16 GB;NVIDIA GeForce RTX 3060 or AMD Radeon RX 6600 XT;20 GB SSD
+Path of Exile 2;Windows 10 64-bit;Intel Core i7-12700K or AMD Ryzen 7 5800X;16 GB;NVIDIA GeForce RTX 3070 or AMD Radeon RX 6800;40 GB SSD
+Marvel Rivals;Windows 10 64-bit;Intel Core i5-12600K or AMD Ryzen 5 5600X;16 GB;NVIDIA GeForce RTX 3060 Ti or AMD Radeon RX 6700 XT;25 GB SSD
+PUBG: BATTLEGROUNDS;Windows 10 64-bit;Intel Core i7-12700K or AMD Ryzen 7 5800X;16 GB;NVIDIA GeForce RTX 3070 or AMD Radeon RX 6800;50 GB SSD
+Call of Duty: Modern Warfare II;Windows 10 64-bit;Intel Core i7-12700K or AMD Ryzen 7 5800X;16 GB;NVIDIA GeForce RTX 3080 or AMD Radeon RX 6800 XT;125 GB SSD
+Rust;Windows 10 64-bit;Intel Core i5-12600K or AMD Ryzen 5 5600X;16 GB;NVIDIA GeForce RTX 3060 Ti or AMD Radeon RX 6700 XT;25 GB SSD
+Grand Theft Auto V;Windows 10 64-bit;Intel Core i7-12700K or AMD Ryzen 7 5800X;16 GB;NVIDIA GeForce RTX 3070 or AMD Radeon RX 6800;80 GB SSD
+Apex Legends;Windows 10 64-bit;Intel Core i5-12600K or AMD Ryzen 5 5600X;16 GB;NVIDIA GeForce RTX 3060 Ti or AMD Radeon RX 6700 XT;30 GB SSD
+NARAKA: BLADEPOINT;Windows 10 64-bit;Intel Core i7-12700K or AMD Ryzen 7 5800X;16 GB;NVIDIA GeForce RTX 3070 or AMD Radeon RX 6800;30 GB SSD
+Fortnite;Windows 10 64-bit;Intel Core i5-12600K or AMD Ryzen 5 5600X;16 GB;NVIDIA GeForce RTX 3060 Ti or AMD Radeon RX 6700 XT;50 GB SSD
+Delta Force;Windows 10 64-bit;Intel Core i7-12700K or AMD Ryzen 7 5800X;16 GB;NVIDIA GeForce RTX 3070 or AMD Radeon RX 6800;35 GB SSD
+Stardew Valley;Windows 10 64-bit;Intel Core i3-12100F or AMD Ryzen 3 4100;8 GB;NVIDIA GeForce GTX 1650 or AMD Radeon RX 6400;1 GB SSD
+Baldur's Gate 3;Windows 10 64-bit;Intel Core i7-12700K or AMD Ryzen 7 5800X;16 GB;NVIDIA GeForce RTX 3080 or AMD Radeon RX 6800 XT;150 GB SSD
+Monster Hunter: World;Windows 10 64-bit;Intel Core i5-12600K or AMD Ryzen 5 5600X;16 GB;NVIDIA GeForce RTX 3060 Ti or AMD Radeon RX 6700 XT;52 GB SSD
+THRONE AND LIBERTY;Windows 10 64-bit;Intel Core i7-12700K or AMD Ryzen 7 5800X;16 GB;NVIDIA GeForce RTX 3070 or AMD Radeon RX 6800;70 GB SSD
+Sid Meier's Civilization VI;Windows 10 64-bit;Intel Core i5-11600K or AMD Ryzen 5 5600X;16 GB;NVIDIA GeForce RTX 3060 or AMD Radeon RX 6600 XT;15 GB SSD
+Farming Simulator 25;Windows 10 64-bit;Intel Core i5-12600K or AMD Ryzen 5 5600X;16 GB;NVIDIA GeForce RTX 3060 Ti or AMD Radeon RX 6700 XT;45 GB SSD
+Crosshair X;Windows 10 64-bit;Intel Core i3-12100F or AMD Ryzen 3 4100;8 GB;NVIDIA GeForce GTX 1650 or AMD Radeon RX 6400;500 MB SSD
+Football Manager 2024;Windows 10 64-bit;Intel Core i5-11600K or AMD Ryzen 5 5600X;16 GB;NVIDIA GeForce RTX 3060 or AMD Radeon RX 6600 XT;10 GB SSD
+Tom Clancy's Rainbow Six Siege;Windows 10 64-bit;Intel Core i7-12700K or AMD Ryzen 7 5800X;16 GB;NVIDIA GeForce RTX 3070 or AMD Radeon RX 6800;100 GB SSD
+Hearts of Iron IV;Windows 10 64-bit;Intel Core i5-11600K or AMD Ryzen 5 5600X;16 GB;NVIDIA GeForce RTX 3060 or AMD Radeon RX 6600 XT;4 GB SSD
+EA SPORTS FC 25;Windows 10 64-bit;Intel Core i7-12700K or AMD Ryzen 7 5800X;16 GB;NVIDIA GeForce RTX 3070 or AMD Radeon RX 6800;60 GB SSD
+Overwatch 2;Windows 10 64-bit;Intel Core i5-12600K or AMD Ryzen 5 5600X;16 GB;NVIDIA GeForce RTX 3060 Ti or AMD Radeon RX 6700 XT;50 GB SSD
+World of Warcraft: Dragonflight;Windows 10 64-bit;Intel Core i7-12700K or AMD Ryzen 7 5800X;16 GB;NVIDIA GeForce RTX 3070 or AMD Radeon RX 6800;100 GB SSD

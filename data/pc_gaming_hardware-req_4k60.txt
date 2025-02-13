@@ -1,0 +1,26 @@
+﻿Game Title;Operating System;Processor (CPU);Memory (RAM);Graphics Card (GPU);Storage
+Baldur's Gate 3;Windows 10 64-bit;AMD Ryzen 7 5800X or Intel Core i7-12700K;32 GB;NVIDIA GeForce RTX 3080 or AMD Radeon RX 6800 XT;150 GB SSD
+Call of Duty: Modern Warfare II;Windows 10 64-bit;AMD Ryzen 7 5800X or Intel Core i7-12700K;32 GB;NVIDIA GeForce RTX 3080 or AMD Radeon RX 6800 XT;125 GB SSD
+Cyberpunk 2077;Windows 10 64-bit;AMD Ryzen 9 5900X or Intel Core i9-12900K;32 GB;NVIDIA GeForce RTX 3080 Ti or AMD Radeon RX 6900 XT;70 GB SSD
+Diablo IV;Windows 10 64-bit;AMD Ryzen 7 5800X or Intel Core i7-12700K;32 GB;NVIDIA GeForce RTX 3080 or AMD Radeon RX 6800 XT;90 GB SSD
+Dota 2;Windows 10 64-bit;AMD Ryzen 5 5600X or Intel Core i5-11600K;16 GB;NVIDIA GeForce RTX 3060 Ti or AMD Radeon RX 6700 XT;25 GB SSD
+Elden Ring;Windows 10 64-bit;AMD Ryzen 7 5800X or Intel Core i7-12700K;32 GB;NVIDIA GeForce RTX 3080 or AMD Radeon RX 6800 XT;60 GB SSD
+Fortnite;Windows 10 64-bit;AMD Ryzen 7 5800X or Intel Core i7-12700K;32 GB;NVIDIA GeForce RTX 3080 or AMD Radeon RX 6800 XT;50 GB SSD
+Grand Theft Auto V;Windows 10 64-bit;AMD Ryzen 7 5800X or Intel Core i7-12700K;32 GB;NVIDIA GeForce RTX 3080 or AMD Radeon RX 6800 XT;100 GB SSD
+League of Legends;Windows 10 64-bit;AMD Ryzen 5 5600X or Intel Core i5-11600K;16 GB;NVIDIA GeForce RTX 3060 Ti or AMD Radeon RX 6700 XT;20 GB SSD
+Minecraft;Windows 10 64-bit;AMD Ryzen 5 5600X or Intel Core i5-11600K;16 GB;NVIDIA GeForce RTX 3060 Ti or AMD Radeon RX 6700 XT;10 GB SSD
+Overwatch 2;Windows 10 64-bit;AMD Ryzen 7 5800X or Intel Core i7-12700K;32 GB;NVIDIA GeForce RTX 3080 or AMD Radeon RX 6800 XT;50 GB SSD
+Path of Exile;Windows 10 64-bit;AMD Ryzen 5 5600X or Intel Core i5-11600K;16 GB;NVIDIA GeForce RTX 3060 Ti or AMD Radeon RX 6700 XT;40 GB SSD
+PlayerUnknown's Battlegrounds (PUBG);Windows 10 64-bit;AMD Ryzen 7 5800X or Intel Core i7-12700K;32 GB;NVIDIA GeForce RTX 3080 or AMD Radeon RX 6800 XT;30 GB SSD
+Red Dead Redemption 2;Windows 10 64-bit;AMD Ryzen 9 5900X or Intel Core i9-12900K;32 GB;NVIDIA GeForce RTX 3080 Ti or AMD Radeon RX 6900 XT;150 GB SSD
+Rocket League;Windows 10 64-bit;AMD Ryzen 5 5600X or Intel Core i5-11600K;16 GB;NVIDIA GeForce RTX 3060 Ti or AMD Radeon RX 6700 XT;20 GB SSD
+Star Wars Jedi: Survivor;Windows 10 64-bit;AMD Ryzen 7 5800X or Intel Core i7-12700K;32 GB;NVIDIA GeForce RTX 3080 or AMD Radeon RX 6800 XT;130 GB SSD
+The Elder Scrolls V: Skyrim Special Edition;Windows 10 64-bit;AMD Ryzen 5 5600X or Intel Core i5-11600K;16 GB;NVIDIA GeForce RTX 3060 Ti or AMD Radeon RX 6700 XT;12 GB SSD
+The Witcher 3: Wild Hunt;Windows 10 64-bit;AMD Ryzen 7 5800X or Intel Core i7-12700K;32 GB;NVIDIA GeForce RTX 3080 or AMD Radeon RX 6800 XT;50 GB SSD
+Valorant;Windows 10 64-bit;AMD Ryzen 5 5600X or Intel Core i5-11600K;16 GB;NVIDIA GeForce RTX 3060 Ti or AMD Radeon RX 6700 XT;20 GB SSD
+Warframe;Windows 10 64-bit;AMD Ryzen 5 5600X or Intel Core i5-11600K;16 GB;NVIDIA GeForce RTX 3060 Ti or AMD Radeon RX 6700 XT;35 GB SSD
+World of Warcraft: Dragonflight;Windows 10 64-bit;AMD Ryzen 7 5800X or Intel Core i7-12700K;32 GB;NVIDIA GeForce RTX 3080 or AMD Radeon RX 6800 XT;100 GB SSD
+Assassin's Creed Valhalla;Windows 10 64-bit;AMD Ryzen 7 5800X or Intel Core i7-12700K;32 GB;NVIDIA GeForce RTX 3080 or AMD Radeon RX 6800 XT;130 GB SSD
+Destiny 2;Windows 10 64-bit;AMD Ryzen 7 5800X or Intel Core i7-12700K;32 GB;NVIDIA GeForce RTX 3080 or AMD Radeon RX 6800 XT;105 GB SSD
+Far Cry 6;Windows 10 64-bit;AMD Ryzen 7 5800X or Intel Core i7-12700K;32 GB;NVIDIA GeForce RTX 3080 or AMD Radeon RX 6800 XT;60 GB SSD
+Horizon Zero Dawn;Windows 10 64-bit;AMD Ryzen 7 5800X or Intel Core i7-12700K;32 GB;NVIDIA GeForce RTX 3080 or AMD Radeon RX 6800 XT;100 GB SSD
