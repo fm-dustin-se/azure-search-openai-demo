@@ -1,0 +1,683 @@
+[33m98833b9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31mupstream/main[m[33m, [m[1;31mupstream/HEAD[m[33m)[m Fix screenshot for Monitoring doc (#2355)
+[33m75809fe[m Improve locust test script (#2357)
+[33m7983e73[m Bump cryptography from 44.0.0 to 44.0.1 in /app/backend (#2354)
+[33me873ba9[m[33m ([m[1;33mtag: [m[1;33m2025-02-11[m[33m)[m Evaluation workflow for GitHub Actions (#2350)
+[33ma54e8eb[m Use uv managed python in GHA workflows (#2342)
+[33ma7dfc64[m Make it easy to run evaluation directly from this repo (#2233)
+[33md277675[m[33m ([m[1;33mtag: [m[1;33m2025-02-07[m[33m)[m Default to 0125 (#2329)
+[33m7a2044a[m[33m ([m[1;33mtag: [m[1;33m2025-01-29b[m[33m)[m Improve schema of CosmosDB chat history to handle long conversations (#2312)
+[33ma891ab3[m[33m ([m[1;33mtag: [m[1;33m2025-01-29a[m[33m)[m Bump i18next-browser-languagedetector in /app/frontend (#2271)
+[33m036fea2[m Bump Azure/setup-azd from 2.0.0 to 2.1.0 in the github-actions group (#2310)
+[33m07ecc32[m Bump pyjwt[crypto] from 2.9.0 to 2.10.1 (#2287)
+[33m2d856a1[m Bump aiohappyeyeballs from 2.4.0 to 2.4.4 (#2288)
+[33m4df1c0b[m Bump vite from 5.4.11 to 5.4.14 in /app/frontend (#2293)
+[33m51487a1[m Note about ACA and app insights (#2300)
+[33m4b7be9a[m Replace sparkle with app logo that's easier to replace (#2299)
+[33maed96cb[m Clearer variables for image cropping (#2298)
+[33m46b49b0[m Adding a variable for openai location (#2292)
+[33m051910b[m Add content understanding to private endpoint (#2225)
+[33mb7d1d4c[m Fix cosmos Bicep configuration (#2226)
+[33md577619[m Add environment variable to disable/enable keys (#2280)
+[33ma0cbcf5[m Fix ask prompts to allow prompt override/injection (#2277)
+[33m3629df8[m[33m ([m[1;33mtag: [m[1;33m2025-01-14[m[33m)[m Use prompty to store prompts (#2178)
+[33m5f898db[m[33m ([m[1;33mtag: [m[1;33m2025-01-13[m[33m)[m Bump zipp from 3.20.0 to 3.21.0 (#2270)
+[33m483c15c[m Bump regex from 2024.7.24 to 2024.11.6 (#2266)
+[33m75d6b35[m Bump mypy from 1.13.0 to 1.14.1 (#2267)
+[33ma967edf[m Handle lack of support for docx/pptx/xlsx for media description (#2260)
+[33me0c6e87[m Revert upgrade of msgraph-core SDK (#2257)
+[33m443841d[m Bump i18next-http-backend from 2.6.1 to 3.0.1 in /app/frontend (#2189)
+[33m4adea81[m Update README.md Resources with Learn article (#2256)
+[33m592b8ca[m Bump @react-spring/web from 9.7.3 to 9.7.5 in /app/frontend (#2190)
+[33m03eb8d1[m Bump azure-monitor-opentelemetry-exporter from 1.0.0b28 to 1.0.0b32 (#2169)
+[33mbed7d3d[m Update packages for better 3.13 support (#2238)
+[33mf730209[m Bump i18next from 23.16.5 to 24.2.0 in /app/frontend (#2247)
+[33m1486128[m Bump jinja2 from 3.1.4 to 3.1.5 in /app/backend (#2255)
+[33m9040128[m Bump cryptography from 43.0.1 to 44.0.0 (#2207)
+[33m555b458[m Bump msgraph-core from 1.1.2 to 1.1.8 (#2245)
+[33m9ad69f9[m Bump the github-actions group with 2 updates (#2248)
+[33m9d27203[m Bump msgraph-sdk from 1.1.0 to 1.16.0 (#2254)
+[33m431bbe6[m Update the docs and dev container based off recent feedback (#2224)
+[33m648c429[m Security Update with Bug Fixes (#2232)
+[33m0bb3f95[m[33m ([m[1;33mtag: [m[1;33m2024-12-09[m[33m)[m Add media description feature using Azure Content Understanding (#2195)
+[33me90920f[m[33m ([m[1;33mtag: [m[1;33m2024-12-02[m[33m)[m Move check for AZURE_PUBLIC_NETWORK_ACCESS (#2209)
+[33m1be8653[m Remove empty origins for array version of CORS domains too (#2210)
+[33mf00d36d[m [Bugfix] The "send" button for chat should be enabled for logged in users (#2202)
+[33m829a7a6[m Configure built-in auth for Azure Container Apps (#2205)
+[33m116258c[m Update path to chunking algorithm in data_ingestion.md (#2204)
+[33m69a26ef[m Bump astral-sh/setup-uv from 3 to 4 in the github-actions group (#2192)
+[33m4fb965f[m Fix links in azure_app_service.md (#2186)
+[33m57e6bba[m Refactor the README to move advanced sections into docs (#2165)
+[33m202e726[m Add support for symlinked files (#2180)
+[33me03b831[m Lower case the environment name (#2182)
+[33m9e960ec[m let env var overrule .dot env setting (#2136)
+[33m194876a[m[33m ([m[1;33mtag: [m[1;33m2024-11-19b[m[33m)[m Turkish translations added (#2154)
+[33mbf40357[m[33m ([m[1;33mtag: [m[1;33m2024-11-19[m[33m)[m Bump react-router-dom from 6.26.2 to 6.28.0 in /app/frontend (#2172)
+[33mf0b8eb8[m Bump react-syntax-highlighter from 15.5.0 to 15.6.1 in /app/frontend (#2170)
+[33m5d8d788[m Bump dompurify from 3.1.6 to 3.2.0 in /app/frontend (#2176)
+[33m17a5cef[m Bump react-i18next from 15.0.1 to 15.1.1 in /app/frontend (#2177)
+[33m637ac37[m Use per-package dependency updates for Python packages (#2163)
+[33m3dad881[m Bump aiohttp from 3.10.5 to 3.10.11 in /app/backend (#2166)
+[33m9ca447f[m Bump @azure/msal-react from 2.0.21 to 2.2.0 in /app/frontend (#2143)
+[33m4fc109f[m Bump @fluentui/react-components from 9.55.1 to 9.56.2 in /app/frontend (#2160)
+[33m6d6fd5e[m Bump @types/react from 18.3.11 to 18.3.12 in /app/frontend (#2161)
+[33m5055772[m Bump @fluentui/react-icons from 2.0.249 to 2.0.265 in /app/frontend (#2142)
+[33m47086e4[m Update start.sh (#2147)
+[33m829a5ed[m[33m ([m[1;33mtag: [m[1;33m2024-11-16[m[33m)[m Update cost estimation guide (#2150)
+[33m9b4dfae[m Update README.md to remove the OpenAI orm (#2156)
+[33mf4cdcdb[m Bump i18next from 23.15.2 to 23.16.5 in /app/frontend (#2141)
+[33m6050e80[m Bump vite from 5.4.10 to 5.4.11 in /app/frontend (#2140)
+[33m53bd96e[m Feature: Add copy button to answer UI (#2131)
+[33mc3810e8[m[33m ([m[1;33mtag: [m[1;33m2024-11-12[m[33m)[m Feature: Store chat history in Cosmos DB (#2063)
+[33m009d5e1[m Port Python tests workflow to uv (#2129)
+[33m2c723d6[m Update links and clean up tasks (#2124)
+[33me33a067[m Update pre-commit hooks, re-run on files (#2128)
+[33m86b6dad[m[33m ([m[1;33mtag: [m[1;33m2024-11-05[m[33m)[m Refactor settings into a single component across Chat/Ask (#2111)
+[33mfa9a638[m Upgrade Azure OpenAI API version and use AZURE_OPENAI_API_VERSION consistently (#2105)
+[33mf3a4c1e[m VS Code debug launch improvements: remove azd extension dependency, add compound, add docs (#2120)
+[33m62577a4[m Properly handle Azure speech service voice var (#2107)
+[33mbecd7f9[m Documentation improvements: Remove duplicate READMEs, consistent titles (#2118)
+[33m58833bd[m Update model version for gpt-4o to latest (#2106)
+[33m87b0686[m Bump @fluentui/react-components from 9.54.13 to 9.55.1 in /app/frontend (#2054)
+[33mbe36436[m Bump @types/react-dom from 18.3.0 to 18.3.1 in /app/frontend (#2060)
+[33m1baad3b[m Bump vite from 5.4.8 to 5.4.10 in /app/frontend (#2075)
+[33mf7c48db[m Bump @vitejs/plugin-react from 4.3.2 to 4.3.3 in /app/frontend (#2087)
+[33m991ce8f[m Bump werkzeug from 3.0.4 to 3.0.6 in /app/backend (#2084)
+[33ma8adacf[m Bump quart from 0.19.6 to 0.19.7 in /app/backend (#2082)
+[33m298e457[m feat: Add Danish (da-DK) translations.json and update config.json (#2119)
+[33m3447262[m[33m ([m[1;33mtag: [m[1;33m2024-11-04[m[33m)[m feat: Add Dutch (nl-NL) translations.json and update config.json (#2115)
+[33m023dc1b[m Add missing variables to azd pipeline (#2104)
+[33m38f7772[m Fix regression from PR #2056: Allow whitespace in citation filenames (#2100)
+[33me34edd5[m[33m ([m[1;33mtag: [m[1;33m2024-10-28[m[33m)[m Switch to ACA by default (#2092)
+[33m0946893[m[33m ([m[1;33mtag: [m[1;33m2024-10-23[m[33m)[m Feature: include category  (#2021)
+[33mfa85034[m use lower() to match upper file extension name (#2069)
+[33ma79fe57[m  Fix scrolling bar issue for long content in chat UI (#2044)
+[33m29c0920[m Bump prettier from 3.0.3 to 3.3.3 in /app/frontend (#2061)
+[33mfd81b69[m Bugfix: Citation Parsing Issue (Version 2) (#2056)
+[33m819d05e[m Fix LogAnalytics workspace resource ID issue in containerApps module (#2058)
+[33mb60274a[m Bump @azure/msal-browser from 3.24.0 to 3.26.1 in /app/frontend (#2039)
+[33mf53d0d8[m Bump typescript from 5.5.3 to 5.6.3 in /app/frontend (#2037)
+[33m7911e32[m feat: add Portuguese (pt-BR) translations and update i18n configuration to include the new language (#2052)
+[33m31f501a[m[33m ([m[1;33mtag: [m[1;33m2024-10-17[m[33m)[m Updates to integrated vectorization (#2045)
+[33mec07548[m Update all AVM modules to latest (#2043)
+[33m78583e1[m[33m ([m[1;33mtag: [m[1;33m2024-10-12[m[33m)[m Adding support for Azure OpenAI Deployment Types (Global Standard, Standard, Provisioned) (#2014)
+[33m07362d4[m Bump @vitejs/plugin-react from 4.3.1 to 4.3.2 in /app/frontend (#2026)
+[33md46ea7d[m Bump @types/react from 18.3.3 to 18.3.11 in /app/frontend (#2024)
+[33me81189f[m Bump react-router-dom from 6.23.1 to 6.26.2 in /app/frontend (#2025)
+[33m40b3101[m Bump i18next from 23.14.0 to 23.15.2 in /app/frontend (#2027)
+[33mbe26d31[m[33m ([m[1;33mtag: [m[1;33m2024-10-04[m[33m)[m Add chat history feature (#1988)
+[33mf4f6896[m Fix roles for integrated vectorization (#2016)
+[33m0136294[m Bump @azure/msal-browser from 3.19.1 to 3.24.0 in /app/frontend (#1984)
+[33m2dd7ba9[m[33m ([m[1;33mtag: [m[1;33m2024-10-02[m[33m)[m Adding CSV Parser (#1996)
+[33ma127523[m Bump vite from 4.5.3 to 5.4.8 in /app/frontend (#1995)
+[33m9722c78[m[33m ([m[1;33mtag: [m[1;33m2024-09-26[m[33m)[m Changes for easier working with local models (#1992)
+[33m162a36d[m Bump cryptography from 43.0.0 to 43.0.1 in /app/backend (#1967)
+[33mb52ebc2[m Bump dompurify and @types/dompurify in /app/frontend (#1983)
+[33mb8f0a74[m Refactor scripts to avoid anti-patterns, redundancy (#1986)
+[33m106b52b[m Bump rollup from 3.29.4 to 3.29.5 in /app/frontend (#1994)
+[33m46b3d6a[m Fix hook for App Service (#1993)
+[33m0225f75[m[33m ([m[1;33mtag: [m[1;33m2024-09-19[m[33m)[m Add Azure Container Apps as a host option (#1952)
+[33m8f3abc4[m Adlsgen2 fixes (#1974)
+[33mcc74772[m Run format on main.bicep (#1968)
+[33m2333426[m Better support for deploying to non-home tenant (#1964)
+[33mfe229cc[m Update README.md to include auth login fix for github codespaces users (#1856)
+[33m9581ea7[m ignore resourceToken and migrationToken as being secure params (#1955)
+[33m9073b65[m[33m ([m[1;33mtag: [m[1;33m2024-08-30[m[33m)[m Frontend multi-language support #1690 (#1790)
+[33meb5627c[m Update test snapshots (#1948)
+[33mcd2dcd2[m Reduce JS size (#1947)
+[33m7b55ad2[m[33m ([m[1;33mtag: [m[1;33m2024-08-23[m[33m)[m Bump the python-requirements group across 1 directory with 16 updates (#1924)
+[33me854195[m Allow disabling app services auth (#1932)
+[33mf7969c0[m On Demand Azure Speech Generation (#1894)
+[33m781bf21[m[33m ([m[1;33mtag: [m[1;33m2024-08-21[m[33m)[m Add Markdown Render Support to GPT completions (#56)
+[33md313c6a[m[33m ([m[1;33mtag: [m[1;33m2024-08-20[m[33m)[m Updated docs (#1925)
+[33m01a4111[m Bump aiohttp from 3.10.1 to 3.10.2 in /app/backend (#1921)
+[33m8fe6429[m Bump @fluentui/react-components from 9.37.3 to 9.54.13 in /app/frontend (#1918)
+[33mc98d4be[m Prevent message submission on Enter during IME composition (#1908)
+[33mf71bbdf4[m Better handling of auth errors (#1879)
+[33m55b0961[m[33m ([m[1;33mtag: [m[1;33m2024-08-08[m[33m)[m Upgrade openai, openai-messages-token-helper, for gpt-4o-mini support (#1893)
+[33ma8b1202[m[33m ([m[1;33mtag: [m[1;33m2024-08-07[m[33m)[m Replace python-jose with pyjwt (#1875)
+[33m27816c1[m Update deploy_features.md (#1885)
+[33m1a32cd4[m Fix broken paths (#1883)
+[33m1837d5f[m Rename Azure OpenAI key variable (#1880)
+[33mc559f2f[m Update README.md (#1878)
+[33m28ffa99[m Fix logging (#1874)
+[33ma5b3334[m Fixed link to private access markdown page (#1859)
+[33m3c0697d[m New screenshot for README file. (#1853)
+[33m0a62d10[m[33m ([m[1;33mtag: [m[1;33m2024-07-22[m[33m)[m Remove VM (#1852)
+[33m3dc31ce[m Bump @azure/msal-react from 2.0.6 to 2.0.21 in /app/frontend (#1849)
+[33m6751135[m Bump marked from 13.0.0 to 13.0.2 in /app/frontend (#1847)
+[33mc9de2c1[m Bump @fluentui/react-icons from 2.0.221 to 2.0.249 in /app/frontend (#1848)
+[33m23c60da[m Bump the python-requirements group across 1 directory with 21 updates (#1851)
+[33mcfbfa41[m fix validation pipeline with missing files and actions (#1774)
+[33mb49a89c[m[33m ([m[1;33mtag: [m[1;33m2024-07-16[m[33m)[m Use AVM for all Cognitive Services accounts and services (#1818)
+[33m58747a1[m Bump certifi from 2024.6.2 to 2024.7.4 in /app/backend (#1789)
+[33m96a8417[m Add an optional seed parameter (#1814)
+[33mc273398[m Bump @vitejs/plugin-react from 4.1.1 to 4.3.1 in /app/frontend (#1757)
+[33m93a0206[m Use AVM for log analytics and application insights. (#1817)
+[33mea19e14[m Prepdocs: Support additional args (#1813)
+[33m8f4af71[m Fix vite by adding host (#1812)
+[33md34fec0[m Docs: More ideas for improving search results (#1811)
+[33me8fd819[m Bump typescript from 5.4.5 to 5.5.3 in /app/frontend (#1796)
+[33m1603e94[m[33m ([m[1;33mtag: [m[1;33m2024-07-10[m[33m)[m CSS changes for responsive design (#1646)
+[33mf4fb45c[m[33m ([m[1;33mtag: [m[1;33m2024-07-03[m[33m)[m Make OpenAI deployment optional (#1777)
+[33m7374ee5[m Fix login state management (#1778)
+[33ma6f9d83[m Bump the python-requirements group across 1 directory with 19 updates (#1775)
+[33m46b7453[m fix ruff check (#1772)
+[33ma1fe900[m Set ACLs to Deny for storage (#1765)
+[33mef14801[m Fix arg specification (#1761)
+[33m28536f6[m Support use of AzureOpenAI proxy by prepdocs (#1760)
+[33me505ab7[m Rm powershell feature (#1752)
+[33mb6f2493[m[33m ([m[1;33mtag: [m[1;33m2024-06-20[m[33m)[m Bump react-dom and @types/react-dom in /app/frontend (#1734)
+[33m55f63be[m Add support for specifying an Azure OpenAI Key (#1746)
+[33mfc515ba[m Bump @types/react-syntax-highlighter in /app/frontend (#1732)
+[33mc46f415[m Bump ndjson-readablestream from 1.0.7 to 1.2.0 in /app/frontend (#1731)
+[33medee960[m Bump urllib3 from 2.2.1 to 2.2.2 in /app/backend (#1739)
+[33m905b62e[m Update deploy_private.md with video link (#1738)
+[33m3a6cf00[m Fix tooltips typo (#1736)
+[33m187bc0a[m Bump @azure/msal-browser from 3.10.0 to 3.17.0 in /app/frontend (#1720)
+[33m4ae2ff4[m Bump react-router-dom from 6.18.0 to 6.23.1 in /app/frontend (#1721)
+[33m3910242[m Bump marked from 9.1.6 to 13.0.0 in /app/frontend (#1719)
+[33m0264dc4[m Bump react and @types/react in /app/frontend (#1718)
+[33mce11ffd[m Bump typescript from 5.2.2 to 5.4.5 in /app/frontend (#1717)
+[33mfec90fe[m Bump the node-packages group across 1 directory with 20 updates (#1706)
+[33m9f29a0f[m Bump azure-identity from 1.16.0 to 1.16.1 in /app/backend (#1712)
+[33m43aa766[m Allow semantic ranker with vector search (#1701)
+[33mc21aac3[m Updates to Markdown files (links, lint, wording) (#1700)
+[33me2d6ca3[m UI developer settings fix (#1688)
+[33m3bd92fb[m Switch to PSRule for security testing (#1687)
+[33mdd7c1d2[m[33m ([m[1;33mtag: [m[1;33m2024-06-05[m[33m)[m Upgrade to latest version of AI Chat Protocol (#1682)
+[33mc873b49[m Add clickable help icons for developer settings (#1522)
+[33me8874a5[m Update deploy_features.md (#1689)
+[33m3feb654[m Bump the python-requirements group with 26 updates (#1673)
+[33m306ac38[m[33m ([m[1;33mtag: [m[1;33m2024-06-03b[m[33m)[m feat: add low cost browser text to speech output using WebSpeechAPI (#1671)
+[33mf80a3db[m Enable diagnostics for search service (#1676)
+[33m938c674[m Update productionizing.md (#1677)
+[33ma5c4cce[m[33m ([m[1;33mtag: [m[1;33m2024-06-03[m[33m)[m Use gpt-4o for vision approach (#1656)
+[33mf16c26b[m Bump the python-requirements group across 1 directory with 17 updates (#1665)
+[33m23d2e38[m Fix overlap percentage calculation (#1668)
+[33m7ffcb3b[m[33m ([m[1;33mtag: [m[1;33m2024-05-29[m[33m)[m Add speech recognizer and synthesis on browser interface (#113)
+[33m69b6e8a[m Use chat model for query rewriting (#1659)
+[33m7f3efe5[m GPt4 version (#1663)
+[33m8cd3055[m Update cognitiveservices.bicep for bypass (#1657)
+[33mf11423a[m[33m ([m[1;33mtag: [m[1;33m2024-05-28[m[33m)[m Disable local auth for Azure DI (#1629)
+[33mc6b8c6e[m Updates to login docs (login step, Entra branding) (#1574)
+[33m0196e73[m Fix output variable for global document access (#1645)
+[33m77303da[m Improve token counting for messages with package (#1577)
+[33me6fa39f[m Fix samples browser - bookmarks (#1637)
+[33mbb0c3ed[m Fix samples browser (#1631)
+[33mb31a95b[m Load testing for vision (#1633)
+[33m414b1a9[m Bump the python-requirements group across 1 directory with 65 updates (#1623)
+[33ma74df4e[m Removing unneeded key for free search service (#1620)
+[33m3822c52[m Additional pointers to docs on private endpoints and load balancing (#1618)
+[33m7366e50[m set default key for retrieval mode (#1609)
+[33m4eeb443[m[33m ([m[1;33mtag: [m[1;33m2024-05-15B[m[33m)[m Optional deployment of Private Networks, Private Endpoints plus optional configuration of an ACL rule for all backend services (#864)
+[33ma4d9386[m[33m ([m[1;33mtag: [m[1;33m2024-05-15[m[33m)[m Allow public documents when authentication is enabled (#1576)
+[33mf23a9b1[m Updating load balancing instructions (#1598)
+[33m0c4c55c[m Escape single quote marks for search filters (#1599)
+[33me1ff6a4[m Add roles descriptions to roles.sh (#1583)
+[33md1c3696[m Update customization.md - fix broken doc links (#1592)
+[33m64a59e3[m Add note about OPENAI_HOST and azd deployment (#1479)
+[33m96ec028[m[33m ([m[1;33mtag: [m[1;33m2024-04-25[m[33m)[m Add storageurl field if missing in index (#1556)
+[33m78ce92e[m Disable openai key access (#1555)
+[33m5aa8a14[m Update other_samples.md (#1542)
+[33m1543e84[m Missing adls2 vars (#1544)
+[33m4633ded[m Fix gunicorn config for free sku (#1551)
+[33m0124725[m[33m ([m[1;33mtag: [m[1;33m2024-04-19[m[33m)[m Adds storageURL field to track file location (#1535)
+[33m12ed699[m Fix gpt-4 vision link (#1546)
+[33mf5c8df4[m Bump vite from 4.5.2 to 4.5.3 in /app/frontend (#1488)
+[33m7f3dcdb[m Bump idna from 3.6 to 3.7 in /app/backend (#1525)
+[33ma095449[m Disable key-based storage account access in Bicep (#1518)
+[33ma2df481[m[33m ([m[1;33mtag: [m[1;33m2024-04-10[m[33m)[m Port to the Graph SDK for authentication scripts (#1510)
+[33m96a4493[m Bump pillow from 10.2.0 to 10.3.0 in /app/backend (#1486)
+[33m853cc72[m[33m ([m[1;33mtag: [m[1;33m2024-03-09[m[33m)[m Optional upload documents feature (#1395)
+[33m2d8eb61[m more updates (#1512)
+[33m2fbde5c[m Update document level access control docs (#1511)
+[33mc6b8e6b[m Update link to pricing calculator to fix Document Intelligence estimation (#1480)
+[33m774d3d3[m Enforce RBAC only for non-free search service (#1502)
+[33m9e76dc3[m Bump the github-actions group with 1 update (#1474)
+[33mc835b48[m Correct datalakepath argument in prepdocs.sh and prepdocs.ps1 (#1478)
+[33m9c68ecc[m Update README.md with right links to deploy docs (#1466)
+[33m7a7881e[m[33m ([m[1;33mtag: [m[1;33m2024-03-26[m[33m)[m Add support for using new ada models with different dimensions (#1378)
+[33m767f81d[m Fix broken links (#1450)
+[33m5e9a431[m Added Environment Variables for setting Names of Resources (#1389)
+[33m24434dd[m Force soft delete and purge for keyvault (#1462)
+[33m7595a1e[m[33m ([m[1;33mtag: [m[1;33m2024-03-25[m[33m)[m Allow manual setting of the OpenAI Deployment Name, Version, Capacity and Model (#1386)
+[33m6aa1428[m Fix search env var (#1455)
+[33mccf2494[m[33m ([m[1;33mtag: [m[1;33m2024-03-20[m[33m)[m Add minimum score criteria for AI search results (#1417)
+[33m40e9887[m Bump the github-actions group with 1 update (#1439)
+[33m5d10644[m Update retrievethenread.py (Typo "Azure Open AI"→"Azure OpenAI") (#1447)
+[33mf6b5e94[m Update chatreadretrieveread.py (Typo "Azure Open AI"→"Azure OpenAI") (#1443)
+[33m0a76219[m[33m ([m[1;33mtag: [m[1;33m2024-03-18[m[33m)[m Add Markdown File Viewer (#1384)
+[33m4ce59be[m Update gpt4v.md (Typo "Azure Open AI models"→"Azure OpenAI models") (#1435)
+[33ma8b6618[m Fix links in documentation (#1426)
+[33md487104[m Update approach.py (Typo "Azure Open AI"→"Azure OpenAI") (#1431)
+[33m127620a[m Update other_samples.md to reflect current features/tech (#1388)
+[33m1ab1984[m Update CONTRIBUTING.md (#1425)
+[33ma45774a[m[33m ([m[1;33mtag: [m[1;33m2024-03-14[m[33m)[m Ensure there are no zero-length sections for batch API (#1423)
+[33md896376[m Don't disable text chunking when GPT4vision is enabled (#1355)
+[33m87f2b9d[m Refactoring of prepdocs for easier integration with user upload feature (#1407)
+[33m334047d[m Add markdown checker (#1377)
+[33m89503ad[m Set Azure OpenAI API version in global configuration (#1399)
+[33m648d438[m Add needed permissions (#1411)
+[33m6e50af1[m Bump the github-actions group with 1 update (#1400)
+[33m39a18a3[m Update data_ingestion.md with correct notebook link (#1405)
+[33mdc80cb4[m Fix provision for load balance custom (#1396)
+[33m68e78df[m[33m ([m[1;33mtag: [m[1;33m2024-03-07[m[33m)[m Add Markdown/Text Parser (#1381)
+[33m3d86d24[m Add search scores, models, and deployments to "Thought process" tab, surface additional properties (#1375)
+[33me191f74[m[33m ([m[1;33mtag: [m[1;33m2024-03-06[m[33m)[m Bump the python-requirements group with 18 updates (#1368)
+[33m96b7f40[m Add suggestion to use [azd auth login] in the free low-cost deploy tutorial (#1214)
+[33m6ac533d[m Update deploy_features.md link (#1373)
+[33mb1c299a[m Update README.md to delete old links (#1372)
+[33m7e0044c[m Update productionizing.md with link to search service size guide (#1354)
+[33mb04fc66[m Improve text splitter for non-English documents (#1326)
+[33mafbe70c[m Improvements to load balancer setup script (#1348)
+[33m62bdbdb[m Restrict GitHub workflows run (#1366)
+[33mf942f19[m[33m ([m[1;33mtag: [m[1;33m2024-03-01[m[33m)[m feat: add local html parser (#1351)
+[33me3de788[m Readme refactor (#1346)
+[33m840f639[m[33m ([m[1;33mtag: [m[1;33m2024-02-28[m[33m)[m Show users a special message for context length errors (#1337)
+[33mad6fa14[m Update app diagram (#1338)
+[33m0e19ff4[m Update launch.json with python backend path (#1022)
+[33mddc6f1b[m Improve PR template (#1335)
+[33md307f3e[m Implement better LLM tracing with llmetetry OpenAI instrumentation (#1319)
+[33ma9617cd[m[33m ([m[1;33mtag: [m[1;33m2024-02-27[m[33m)[m Add HTML parser (#1325)
+[33m2e79777[m[33m ([m[1;33mtag: [m[1;33m2024-02-23[m[33m)[m Use AAD instead of key vault for Computer Vision API (#1062)
+[33m3424475[m ACA lb setup script (#1310)
+[33m1c32a28[m Bump the python-requirements group with 10 updates (#1291)
+[33meabb47e[m Bump the github-actions group with 1 update (#1290)
+[33m33bc505[m[33m ([m[1;33mtag: [m[1;33m2024-02-16[m[33m)[m Get PDFs to jump to their pages again (#1283)
+[33mfb95e53[m Clarify that gpt-4-v cant be used with integrated vectorization (#1282)
+[33mee4425d[m Add missing env vars needed for GPT4v deployment (#1276)
+[33me8ce8b9[m Adding support for custom Azure deployments (#1273)
+[33m3ef0a2c[m Update appservice.md (#1280)
+[33m8224a30[m Update README.md with new login doc link (#1277)
+[33m2680bd6[m[33m ([m[1;33mtag: [m[1;33m2024-02-15b[m[33m)[m Support more doc formats with new documentintelligence SDK (#1224)
+[33mf90c660[m[33m ([m[1;33mtag: [m[1;33m2024-02-15[m[33m)[m Proper event loop setup (#1275)
+[33m1a7158d[m New documentation on App Service debugging, and some docs organizational changes (#1261)
+[33m688e1c4[m Add workflow for azd deployment on GitHub Actions and ADO (#1083)
+[33m88056e1[m Fix ADLS Gen2 scripts and authentication checks (#1272)
+[33m29355ec[m Bump the python-requirements group with 21 updates (#1267)
+[33m72009ae[m[33m ([m[1;33mtag: [m[1;33m2024-02-09[m[33m)[m Better conditional (#1260)
+[33m385a2fc[m Add document describing the HTTP chat protocol (#1193)
+[33m18a7843[m Only output identity for non-free (#1258)
+[33mcb723a8[m Add integrated vectorizer support (#1159)
+[33m690ab5d[m Improvements to token counting for images and type annotations (#1244)
+[33m51b6453[m[33m ([m[1;33mtag: [m[1;33m2024-02-06[m[33m)[m Added FluentUI Slider to chat settings panel for overriding temperature (#54)
+[33mbd7daa6[m Update SDK (#1241)
+[33mb251a31[m Change default temp to 0.3 for chat (#1238)
+[33m219237f[m[33m ([m[1;33mtag: [m[1;33m2024-02-05[m[33m)[m Consider system prompt in calculations (#1233)
+[33m0ee189d[m Use token provider instead of token wrapper (#1228)
+[33m15af3a8[m Improve uses of get, fix temperature bug (#1225)
+[33m270d869[m[33m ([m[1;33mtag: [m[1;33m2024-02-01[m[33m)[m Add JsonFileParser to FileStrategy (#1195)
+[33m232a6e0[m Update README.md with correct link (#1216)
+[33md23c7cc[m Gpt4 + vision -verify access by create deployment (#1200)
+[33mb6e2607[m Update doc on free deployment with video and other tips (#1204)
+[33md868563[m Bump all Python dependencies (#1206)
+[33m3f3ed8b[m Fix search ranker level (#1203)
+[33mab06aad[m Add token validation (#1186)
+[33m2e900be[m[33m ([m[1;33mtag: [m[1;33m2024-01-27[m[33m)[m Account for vision key only situation (#1192)
+[33m8048b28[m Rename OneShot to Ask, update Black style (#1191)
+[33m457c4d2[m[33m ([m[1;33mtag: [m[1;33m2024-01-25[m[33m)[m Make it possible to deploy on free App Service and free Search Service tier (#1166)
+[33m62c5ae8[m[33m ([m[1;33mtag: [m[1;33m25-01-2024[m[33m)[m Update to tools parameter (#1175)
+[33mbec59be[m Apply acls to citations (#1160)
+[33mce5b9b0[m Update data indexing link in gpt4v.md (#1182)
+[33m462616e[m[33m ([m[1;33mtag: [m[1;33m23-01-2024[m[33m)[m Bump vite from 4.5.1 to 4.5.2 in /app/frontend (#1161)
+[33m65ec876[m Bump pillow from 10.1.0 to 10.2.0 in /scripts (#1168)
+[33me835da3[m bug #1152: Fix for indexing small docs (#1155)
+[33m5e9d142[m Add support for local OpenAI-compatible server, fix local hot reloading, add docs on local dev (#1148)
+[33m2a0e9d1[m Cast event as ChatAppResponse (#1130)
+[33md3762a4[m Bump jinja2 from 3.1.2 to 3.1.3 in /app/backend (#1128)
+[33m0b8724a[m Update Authentication to use local storage and easy auth refresh (#1117)
+[33me518ab0[m bugfix:in app/backend/core/authenticatio.py/119line-'use_oid_security_filter' does not work (#1086)
+[33m769e832[m Correct pwsh command and location (#1114)
+[33m320c3e6[m Add more tests for prepdocslib (#1082)
+[33m49a9660[m Bump the github-actions group with 2 updates (#1075)
+[33m294bc3a[m Explain the vision tabs (#1067)
+[33m6cc7836[m [BugFix] Use default font when a specific font cannot be found (#1069)
+[33mc02908c[m [BugFix] Fix logic in prepdocs to always update search index (#1066)
+[33m9a6323e[m Fix prepdocs (#1064)
+[33ma880d49[m Link to evaluation repo (#1061)
+[33mcf97be4[m[33m ([m[1;33mtag: [m[1;33m12-12-2023-automate-auth[m[33m)[m [Bugfix] Change the if condition for GPT-V to check USE_GPTV to fix non-GPTV usage (#1060)
+[33m6392a8c[m Automate Login Setup (#891)
+[33m5e323c2[m Update README.md openai link (#1035)
+[33m5846b1c[m Bump the github-actions group with 2 updates (#1047)
+[33m795b3d1[m Disable funding notice (#1037)
+[33m3601589[m[33m ([m[1;33mtag: [m[1;33mgpt4-vision-multimodal-sprt[m[33m, [m[1;33mtag: [m[1;33m12-13-2023[m[33m)[m Integrate GPT4-vision support (#1056)
+[33mb382d94[m Bump the node-packages group in /app/frontend with 14 updates (#1038)
+[33mc00395a[m Bump the python-requirements group with 5 updates (#1029)
+[33m781fb1c[m Bump vite from 4.4.11 to 4.4.12 in /app/frontend (#1034)
+[33ma117056[m Update python-test.yaml with 3.12 (#1030)
+[33maa02563[m[33m ([m[1;33mtag: [m[1;33m04-12-2023[m[33m)[m Upgrade OpenAI SDK to v1 (#1017)
+[33mda24cf4[m [Docs] Add to readme: links, getting help, load balancing (#1019)
+[33m87d15fc[m Update search links (#993)
+[33m7403b26[m[33m ([m[1;33mtag: [m[1;33m29-11-2023[m[33m)[m Bump the python-requirements group with 13 updates (#1013)
+[33mbb81f19[m Bump aiohttp from 3.8.6 to 3.9.0 in /scripts (#1009)
+[33m841b3d3[m Bump cryptography from 41.0.5 to 41.0.6 in /scripts (#1016)
+[33mc1abac1[m Fix: BadRequest: NetworkAcls is required for this resouce. (#799)
+[33m13e4cd8[m [Backend/Prepdocs] Update to latest version of search SDK (#1010)
+[33mf6e8729[m [BugFix] Fix "monitoring" related issues in main.bicep (#991)
+[33m85e1b6b[m [Infra] Default AZURE_USE_APPLICATION_INSIGHTS to true, so that monitoring is always provisioned (#992)
+[33m5de99a3[m Added insights dashboard (#898)
+[33m7d5da83[m Fixing app service settings (#986)
+[33mff50774[m [Bug fix] Fix prepdocs logic in uploading docs with more than 1000 sections (#971)
+[33m59b8cbd[m set content-type for streamed response (#968)
+[33m1a65c71[m update the node for parameter (#970)
+[33m144698a[m Update README.md (#966)
+[33mf696c92[m [Docs] Rename remaining instances of Cognitive Search to AI Search (#961)
+[33m1f7de66[m replace form recognizer with doc intelligence (#686)
+[33mab1e603[m Rebranding from Cognitive Search to AI Search (#959)
+[33m82522fb[m Document how to make settings permanent (#955)
+[33m8719f07[m [CI] Move cron trigger to dedicated nightly workflow for better CI behavior on forks (#937)
+[33m204bb1c[m Add special error (#896)
+[33m7414491[m Update customization.md with correct image filenames (#926)
+[33me128bd9[m Enable uploads of large PDFs over connections with less upload speed (#923)
+[33m7fc2875[m add sweden central (#935)
+[33m1d9441d[m Bump the python-requirements group with 20 updates (#934)
+[33m39fdebb[m Bump the python-requirements group in /scripts with 5 updates (#894)
+[33m7c594d2[m Fix for mimetypes (#928)
+[33ma0c6c11[m Upgrade infra/core to latest from azd (#918)
+[33m18eee6b[m Test and fix file strategy list (#907)
+[33mc7aebb6[m Including Australia East to allowed regions (#906)
+[33m3bf2d19[m Fix list file (#897)
+[33mb3c55b0[m Bump pypdf from 3.16.3 to 3.17.0 in /scripts (#890)
+[33mcfbb90b[m Add more readmes/guides (#889)
+[33m4479a2c[m Handle errors better especialyl for streaming (#884)
+[33m0d54f84[m Add exclude files (#876)
+[33m3647826[m When using the option --storagekey for the prepdocs script the key might (#866)
+[33m5daa934[m Bump the github-actions group with 1 update (#880)
+[33mbfb3ee5[m Render entire PDFs instead of single pages (#840)
+[33mc989048[m add screenshot (#870)
+[33ma64a12e[m Refactor prepdocs (#862)
+[33m94be632[m Updated FAQ so that it reflect PR 835 (#868)
+[33md7bbf9f[m Bump werkzeug from 3.0.0 to 3.0.1 in /app/backend (#863)
+[33md02aa14[m Message builder improvements (#852)
+[33m8f55988[m Reorder tags to optimize for sample browser (#853)
+[33m16a61bf[m Improve follow-up questions and pipe into context (#832)
+[33mca01af9[m Store an MD5 hash of uploaded/indexed file and check before prepdocs (#835)
+[33mba88bd6[m Add front-matter needed for Sample browser (#816)
+[33md53fdb1[m Run prettier on files and add to precommit/CI (#834)
+[33m1dd756f[m Fix if for tests running (#833)
+[33m97433c1[m Update README.md - Dev Containers (#829)
+[33ma4801f9[m Support windows by using uvicorn without extras (#815)
+[33m3475bb6[m Change role from bot to assistant to fix bug when asking follow-up question in chat (#823)
+[33mf50db74[m Bump urllib3 from 2.0.6 to 2.0.7 in /app/backend (#820)
+[33m1844b00[m Add scheduler package (#822)
+[33m07c2afa[m Message builder fixes for history format and token count (#778)
+[33m69c4147[m Increased maxtoken to avoid malformed JSON in chatreadretrieveread.py (#681)
+[33m774c47c[m Bump @babel/traverse from 7.23.0 to 7.23.2 in /app/frontend (#812)
+[33me02b347[m Bump the node-packages group in /app/frontend with 5 updates (#800)
+[33m8c83284[m Add arguments required for OpenAI connection (#796)
+[33m5300bb5[m support non English languages (#780)
+[33m08fdbd1[m Improvements to VS Code and Vite debug experience (#786)
+[33m475885e[m Daily tests (#787)
+[33mca09627[m Use absolute redirect uris for login and fetching tokens (#784)
+[33m7c614bb[m Adding session_state to conform to ChatApp protocol (#773)
+[33mff273c2[m Rm print statements (#772)
+[33m3324bdb[m Chat response (#748)
+[33m7b2e887[m Bump the node-packages group in /app/frontend with 7 updates (#771)
+[33m2b9119a[m Bump @fluentui/react from 8.110.7 to 8.112.2 in /app/frontend (#759)
+[33m79bfb0f[m Add more Playwright tests to check all routes and buttons (#743)
+[33me69e884[m Urllib3 update for security issue (#728)
+[33m25a2e0e[m Fixed type annotations per mypy and added mypy to CICD (#749)
+[33mdd5dcea[m Grouped updates (#729)
+[33m0c31808[m Python version updates (#761)
+[33m5d46a30[m Bump pypdf from 3.16.2 to 3.16.3 in /scripts (#753)
+[33mcdd5f94[m Bump quart from 0.19.2 to 0.19.3 in /app/backend (#755)
+[33m88eb4c9[m Bump prettier from 3.0.0 to 3.0.3 in /app/frontend (#757)
+[33mab1e480[m Clarify roles (#741)
+[33m3c75230[m update dependencies (#745)
+[33mc505750[m Conform to Chat App specification for responses (#679)
+[33m969272d[m Normalize text in messages to reduce token length (#688)
+[33mdd85ed8[m Fix embedding name so that it can be set with azd (#691)
+[33mf109467[m Remove broken langchain-based approaches (#738)
+[33m433ccca[m Bump postcss from 8.4.25 to 8.4.31 in /app/frontend (#730)
+[33m7794ba1[m Bump langchain from 0.0.305 to 0.0.306 in /app/backend (#705)
+[33mfd739e2[m Default log level for dev vs prod (#718)
+[33m5b2fa76[m Fix CORS command in readme (#723)
+[33m22a45dc[m Enable CORS support (#717)
+[33m5c3fe09[m Address Issue #670 (#716)
+[33m869ddba[m documentation feedback (#712)
+[33m4745ae3[m Readme cost warning (#711)
+[33mf7315a5[m Bump react-router-dom from 6.14.1 to 6.16.0 in /app/frontend (#703)
+[33m87bd542[m Bump @fluentui/react-components from 9.30.3 to 9.33.0 in /app/frontend (#706)
+[33m7d4a6f9[m Bump actions/setup-python from 2 to 4 (#702)
+[33m98c0616[m Bump @types/react-dom from 18.2.6 to 18.2.8 in /app/frontend (#707)
+[33m4400872[m Bump dompurify and @types/dompurify in /app/frontend (#708)
+[33m67ada58[m Bump quart from 0.19.1 to 0.19.2 in /app/backend (#709)
+[33mf20e6dd[m Bump ndjson-readablestream from 1.0.6 to 1.0.7 in /app/frontend (#699)
+[33m59bf8f4[m Bump actions/setup-node from 2 to 3 (#701)
+[33mf5f90bd[m Bump actions/checkout from 3 to 4 (#700)
+[33m8d910f5[m Use pip-tools to pin transitive dependencies and dependabot for version updates (#693)
+[33m29603df[m Escape more Powershell possibly empty args (#683)
+[33m2ff3344[m Add E2E tests using Playwright, increase accessibility of buttons (#677)
+[33mc8b8486[m Add support for an optional login and document level access control system. (#624)
+[33mf3cc2ad[m Hotfix: Workaround for stream bug (#664)
+[33m7b7e6ce[m Stabilize search query generation (#652)
+[33m595578c[m Adding more regions (#660)
+[33mc01d292[m Smooth scrolling and fix partial citiation (#659)
+[33mf919047[m Fix env vars (#651)
+[33m0733b60[m Clarify which search Skus are compatible (#642)
+[33m60f7685[m Comparison table (#640)
+[33mb2d8788[m Adding anchors (#638)
+[33m444ea09[m Update prepdocs.ps1 (#639)
+[33mcd31800[m Deploy to existing (#637)
+[33m62e2248[m Adding support for non-Azure openai instances (#507)
+[33m38dd16c[m Run black on all Python files (#632)
+[33m89a22ea[m Only validate bicep on changes to infra folder (#631)
+[33m2c5f493[m Reword top label (#627)
+[33ma4bb2b0[m Storage sku (#628)
+[33m3385187[m Easier to re-use search (#620)
+[33me914960[m Update README.md with azd up descrip (#602)
+[33m2ba024a[m Fix prompt_template override, add tests (#606)
+[33m3c2a266[m Fix devcontainer name (#613)
+[33mde2f451[m Update README.md with logging info (#610)
+[33m583b562[m Use environ vs getenv (#611)
+[33m56d60ec[m Fix prepdocs compatibility with openai key and add test (#605)
+[33m2f792eb[m Update README.md with account reqs (#609)
+[33mf277771[m Explicitly set https required (#581)
+[33mb4c45b1[m Adds optional streaming support for chat requests (#532)
+[33me1a077d[m Indexing: Improve vectors throughput (#556)
+[33m62c5962[m Update README.md about local env (#587)
+[33m376068b[m Update README.md deploying section (#589)
+[33m9cdbc1c[m Add section about productionizing (#577)
+[33m2e8adf4[m Update README.md with chat/ask question (#584)
+[33m3ffa433[m Remove notebooks (#588)
+[33m80357ce[m Create stale-bot.yml for tidying up backlog (#579)
+[33m239228b[m Make SARIF uploads optional but automatic for the main repo (#578)
+[33m886f445[m Allow for subdirectory structure within data directory (#569)
+[33me48b0d1[m Use Standard_LRS instead of Standard_ZRS (#567)
+[33mdcc9879[m Adding table of contents to main readme (#554)
+[33m424c8d8[m Add Azure Security for DevOps to CI Pipeline (#557)
+[33m265ce2e[m Bump langchain from 0.0.187 to 0.0.236 in /app/backend (#521)
+[33ma61e4cf[m Bump langchain from 0.0.187 to 0.0.236 in /notebooks (#522)
+[33m7387424[m Update README.md re gpt-4 (#553)
+[33ma16c88a[m Update README.md (#551)
+[33me166911[m Remove defaults for getenv (#550)
+[33m5d4fc98[m Update README.md based on connor chat (#548)
+[33m07797c4[m Typo "Azure Open AI"→"Azure OpenAI" (#545)
+[33mfb3aa0a[m Remove unneeded deployment (#540)
+[33m4afd949[m Fix typo in prepdocs.py (#539)
+[33m2b077d8[m Add workaround for connection reset issue (#525)
+[33m1641017[m Update README.md to include clear authentication/access control and steps to secure deployed app (#536)
+[33mf76673c[m Add more to costs section (#537)
+[33mcf3a348[m Address recent bugs (#529)
+[33ma933189[m Update main.bicep with more allowed regions (#520)
+[33m9ee22bf[m Add application insights for request and backend tracing of performance data (#515)
+[33m76bb57a[m Gunicorn timeout (#524)
+[33m4255283[m Change to port 50505 (#523)
+[33m9cebb77[m Sample Locust loadtest (#486)
+[33m268e2a0[m Update README.md with FAQ comparing to other repo (#512)
+[33m9da71ef[m Port to Quart (#503)
+[33mdf48d8c[m Use an app factory pattern to enable app testing (#495)
+[33m07a97f3[m Run ruff, add to precommit (#491)
+[33m52abf79[m Ensure openai token (#262)
+[33m62824c3[m Startup script for App Service (#464)
+[33me290962[m Respect ENV values for resource group and index name (#469)
+[33mce42409[m Add SSL note (#470)
+[33m4759701[m Adjust regions (#467)
+[33m0f5fb26[m Tell Oryx to configure gunicorn workers dynamically (#461)
+[33m08b2ff8[m Update to chatcompletion api (#463)
+[33m6ecf12a[m Update imports (#452)
+[33m8af9e66[m Require Node 14+ (#453)
+[33mae062da[m Add 3.8 to matrix, fix type bug (#454)
+[33m2b77744[m Fix path to .env file in README (#153)
+[33m664abbd[m Fix for paths with spaces (#71)
+[33m11eaf5f[m Rewrite roles.ps1 in bash (#351)
+[33meb08733[m Using azd feature (#429)
+[33mfeaf5a1[m Add simple validation (#445)
+[33m3559592[m Update FAQ to include common failures reasons with links (#252)
+[33m9b4b65b[m Add more tests for core/ folder (#430)
+[33m85791db[m[33m ([m[1;33mtag: [m[1;33mrel-vector-071823[m[33m)[m Vector search (#424)
+[33m6bfb2cc[m[33m ([m[1;33mtag: [m[1;33mrel071723[m[33m)[m Migration Completion api to chat completion api (#419)
+[33m1a8a1ce[m Update readme FAQs (#417)
+[33m755188c[m Handle non-ascii filenames (#418)
+[33me3dc087[m Merge pull request #407 from Azure-Samples/srbalakr/update-nb
+[33m6880623[m Merge pull request #411 from Azure-Samples/srbalakr/ux-msg-711
+[33m91f34f1[m[33m ([m[1;31mupstream/srbalakr/ux-msg-711[m[33m)[m addresscomments
+[33mb6a09ee[m[33m ([m[1;31mupstream/srbalakr/update-nb[m[33m)[m Update comments
+[33mcf89d1e[m save
+[33m3fed3f0[m s
+[33m973400b[m s
+[33m8a34a97[m s
+[33m4063ad6[m Merge pull request #385 from Azure-Samples/srbalakr/chatCompletion5.7
+[33m34221ef[m[33m ([m[1;31mupstream/srbalakr/chatCompletion5.7[m[33m)[m address comments
+[33mb2e7ab8[m Update app/backend/approaches/chatreadretrieveread.py
+[33mf871f4d[m Update app/backend/approaches/chatreadretrieveread.py
+[33m034ad27[m Update app/backend/approaches/chatreadretrieveread.py
+[33md69e298[m Update app/backend/approaches/chatreadretrieveread.py
+[33me0a57c1[m Update app/backend/approaches/chatreadretrieveread.py
+[33m889f77b[m Frontend basic code splitting
+[33m81239a7[m address comments'
+[33m0cc155b[m Bump frontend dependencies
+[33m195bd29[m Use Python 3.0 base image
+[33m2249247[m fix token estimation and address counts
+[33m6ea87ad[m Update README.md
+[33mca9cedb[m Update app/backend/approaches/chatreadretrieveread.py
+[33m501c6ca[m Update app/backend/approaches/chatreadretrieveread.py
+[33m929bf01[m Update app/backend/approaches/chatreadretrieveread.py
+[33m5c75cad[m Update app/backend/approaches/chatreadretrieveread.py
+[33m0572986[m address cmments
+[33m900eb78[m s
+[33m3a0b9c7[m add model validation for tiktok
+[33me0db5fe[m Address comments
+[33m695d690[m add message construction and validate tokens
+[33mb55604e[m Merge pull request #390 from pamelafox/location-picker
+[33m221b3a1[m Merge pull request #389 from pamelafox/swap-davinci-gpt
+[33m4b3eaf4[m Use location picker for openAI
+[33m82ced14[m Change davinci to gpt35-turbo
+[33m2a64c8b[m Merge pull request #379 from Azure-Samples/dependabot/pip/scripts/pypdf-3.9.0
+[33m03ec526[m Merge pull request #364 from pamelafox/flask-cmd
+[33meab811b[m Merge branch 'main' into flask-cmd
+[33mb21d06f[m update model version
+[33m185b0c6[m upgrade to chat completion api
+[33m46e75e1[m Merge pull request #345 from pamelafox/other-way
+[33mad8bd74[m Bump pypdf from 3.5.0 to 3.9.0 in /scripts
+[33mdb851c7[m Merge pull request #308 from lukemurraynz/main
+[33m6e7beec[m Merge branch 'main' into main
+[33mef32ced[m Merge pull request #264 from gukoff/comments-to-docstrings
+[33mda099fa[m Merge pull request #375 from wherewith/main
+[33m7ee299a[m Update line to match previous format
+[33me50f6b2[m Merge pull request #221 from Azure-Samples/pamelafox-patch-1
+[33m648d718[m Merge pull request #341 from vhvb1989/py-identity-sdk-client
+[33mc0e21b6[m Merge branch 'main' into py-identity-sdk-client
+[33m3e5341c[m Merge pull request #151 from bioerrorlog/duplicated-import
+[33m032a394[m Merge pull request #260 from kokuljose/main
+[33mf039939[m Update with June 2023 list
+[33mae2f960[m Merge branch 'main' into main
+[33mca910bb[m Merge pull request #231 from dudgeon/main
+[33ma396771[m Merge branch 'main' into main
+[33m64d55a3[m Merge pull request #363 from pamelafox/in-fix
+[33m00b2f53[m Merge pull request #324 from jongio/main
+[33m90df471[m Update capacity to acceptable value
+[33m84e2382[m Using flask command
+[33mb2192bf[m Use has_key instead
+[33m09d8d53[m Merge pull request #283 from pamelafox/fix-sendfile
+[33mfae966d[m Guards around blob
+[33mb119874[m Merge branch 'main' into fix-sendfile
+[33m8f70ef2[m Dont provide any values
+[33mbe2d221[m Merge pull request #323 from Azure-Samples/tonybaloney-patch-1
+[33mf091fbe[m Defaults only in main.parameters.json
+[33me14fa12[m Merge pull request #347 from gkulin/gkulin-updateReadme
+[33m7c6b4f7[m Merge pull request #339 from Azure-Samples/type_fixes
+[33m7fdbdc1[m Merge pull request #229 from Azure-Samples/mattmsft-patch-1
+[33m2e20a11[m return invalid request with no json. Use union for older Python versions. Update abstract method type annotations for Approach
+[33m897596e[m Pamela's feedback
+[33mf89eb12[m update readme
+[33me2553c7[m Use defaults
+[33m4b1452b[m Revert "Merge pull request #338 from Azure-Samples/matt/openai-params"
+[33m620d870[m Default to a better default sku
+[33mc568e7e[m Update to expose full sku object of deployment
+[33m58a46a8[m update sdk python client to latest GA
+[33m1e7c137[m Merge pull request #338 from Azure-Samples/matt/openai-params
+[33m3341e9f[m Fix some of the type annotations
+[33mbd73a5d[m Accept gpt and chat gpt deployment names as parameters; Ensure empty strings are not allowed
+[33m868d238[m Merge pull request #336 from Azure-Samples/tonybaloney-patch-2
+[33md355cdd[m Update main.parameters.json
+[33m74d0776[m Merge pull request #176 from mattmsft/mattmsft-patch-1
+[33me32ea9b[m Merge branch 'Azure-Samples:main' into main
+[33m03d86f0[m Update Flask version
+[33mf5a7095[m Updating Bicep files to use new OpenAI capacity settings in new ARM API version (#322)
+[33mbe5bb30[m Merge branch 'Azure-Samples:main' into main
+[33m9e62fe2[m Merge pull request #320 from ppeterlongotg/patch-1
+[33mf1d92bd[m Update README.md
+[33m6620f53[m Fixed markdown violations.
+[33m8cdbaf3[m Fix send_file
+[33m1c32688[m Fix send_file
+[33m34e8cd4[m Turn class comments to class docstrings
+[33m8526e60[m Update README.md
+[33mb4f3922[m Updating langchain to 0.0.187 (#255)
+[33m54ab023[m fixed single character typo
+[33mc4718c9[m Update read, retrieve, read approach
+[33m472bfe9[m Fix non-subscription owner scenarios by adding Search Service Contributor user role (#220)
+[33m6d059ba[m Make same change in other script
+[33m739c236[m Update prepdocs.sh to use python3
+[33m01a88b2[m Merge pull request #216 from weikanglim/weilim/fix-prepdocs-pwsh
+[33m0e23f4f[m Avoid setenv on blank lines
+[33m21746d4[m Merge pull request #201 from Azure-Samples/vhvb1989-patch-2
+[33me72283b[m Update ISSUE_TEMPLATE.md
+[33m25dfdc1[m Add deployment parameters to re-use OpenAI Deployments
+[33m05f25ee[m delete: duplicated import
+[33mb843c02[m Merge pull request #131 from Azure-Samples/update-py-skd-client-increase-timeout-for-token
+[33m6d35435[m update py sdk client and increase timeout
+[33mf703ed1[m Merge pull request #105 from DarrenTurchiarelli/patch-1
+[33m83679db[m Revert "fixed main.parameters.json to take openai models"
+[33m5bde060[m fixed main.parameters.json to take openai models
+[33m6eb385c[m Update README.md
+[33m40e5478[m Update hooks for azd 0.8.0
+[33m2f264f2[m Update README.md
+[33m1945589[m Update `tenantid` argument (#52)
+[33ma7e8dbc[m[33m ([m[1;31mupstream/adh_issue70fix[m[33m)[m Remove extra line
+[33m278848c[m Update to use storageContainerName
+[33m73b9d53[m Update prepdocs.sh
+[33mfc78449[m Address feedback in bicep files
+[33m81a5328[m Add -e flag
+[33m59d1ebc[m note for ubuntu (#34)
+[33m6ac7c90[m Use Azure Form Recognizer as document preprocessing to extract text, tables, and document layout (#37)
+[33m1273a21[m Fix typo which causes error for document with more than 1000 sections. (#38)
+[33me201432[m Remove unsupported characters from Azure Search section id (#39)
+[33mffc416c[m Existing resources, tenant id, codespaces/linux support (#25)
+[33m443ff95[m Update README.md
+[33md5ec2e6[m Update README.md
+[33md520c9d[m Merge pull request #24 from lordlinus/main
+[33ma9ff41a[m fix typo
+[33m0eed611[m Update prepdocs.ps1
+[33mbb9d74d[m Merge branch 'main' of https://github.com/Azure-Samples/azure-search-openai-demo
+[33m86c6e39[m Removing the AzureKeyCredential wrapper for storage keys
+[33mb8e81ae[m Update README.md
+[33mdbae8a3[m Update README.md
+[33mb2dfd1b[m Update README.md
+[33m086d654[m Merge pull request #3 from Azure-Samples/achandmsft-patch-1
+[33m73b2d0b[m Adding metadata to measure telemetry
+[33m57c883d[m More details on Powershell requirements
+[33maa24d3d[m Merge pull request #2 from Azure-Samples/liamca-readme-update-1
+[33mc787f64[m Update README.md
+[33m2d66629[m Update GPT turbo model version in Bicep deployment template
+[33mde7817a[m Adding requirement.txt for the notebooks
+[33m8e960c6[m Readme updates
+[33m3cd9ae4[m First commit for sample code
+[33m69d24f0[m .github/PULL_REQUEST_TEMPLATE.md committed
+[33ma221adb[m .github/ISSUE_TEMPLATE.md committed
+[33m6a72547[m .github/CODE_OF_CONDUCT.md committed
+[33m38131a8[m CHANGELOG.md committed
+[33m2e63401[m README.md updated to template
+[33m889ffc8[m LICENSE.md committed
+[33ma63096e[m CONTRIBUTING.md committed
+[33m0041b75[m Initial commit
